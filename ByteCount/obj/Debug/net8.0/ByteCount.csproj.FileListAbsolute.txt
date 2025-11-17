@@ -1,0 +1,14 @@
+C:\Users\alish\Desktop\homework\ByteCount\bin\Debug\net8.0\ByteCount.exe
+C:\Users\alish\Desktop\homework\ByteCount\bin\Debug\net8.0\ByteCount.deps.json
+C:\Users\alish\Desktop\homework\ByteCount\bin\Debug\net8.0\ByteCount.runtimeconfig.json
+C:\Users\alish\Desktop\homework\ByteCount\bin\Debug\net8.0\ByteCount.dll
+C:\Users\alish\Desktop\homework\ByteCount\bin\Debug\net8.0\ByteCount.pdb
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ByteCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ByteCount.AssemblyInfoInputs.cache
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ByteCount.AssemblyInfo.cs
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ByteCount.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ByteCount.dll
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\refint\ByteCount.dll
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ByteCount.pdb
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ByteCount.genruntimeconfig.cache
+C:\Users\alish\Desktop\homework\ByteCount\obj\Debug\net8.0\ref\ByteCount.dll

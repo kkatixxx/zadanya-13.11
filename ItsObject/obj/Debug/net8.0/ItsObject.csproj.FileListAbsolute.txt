@@ -1,0 +1,14 @@
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ItsObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ItsObject.AssemblyInfoInputs.cache
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ItsObject.AssemblyInfo.cs
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ItsObject.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\homework\ItsObject\bin\Debug\net8.0\ItsObject.exe
+C:\Users\alish\Desktop\homework\ItsObject\bin\Debug\net8.0\ItsObject.deps.json
+C:\Users\alish\Desktop\homework\ItsObject\bin\Debug\net8.0\ItsObject.runtimeconfig.json
+C:\Users\alish\Desktop\homework\ItsObject\bin\Debug\net8.0\ItsObject.dll
+C:\Users\alish\Desktop\homework\ItsObject\bin\Debug\net8.0\ItsObject.pdb
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ItsObject.dll
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\refint\ItsObject.dll
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ItsObject.pdb
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ItsObject.genruntimeconfig.cache
+C:\Users\alish\Desktop\homework\ItsObject\obj\Debug\net8.0\ref\ItsObject.dll

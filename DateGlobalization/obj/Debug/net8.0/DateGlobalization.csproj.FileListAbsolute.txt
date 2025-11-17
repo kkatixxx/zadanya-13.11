@@ -1,0 +1,14 @@
+C:\Users\alish\Desktop\homework\DateGlobalization\bin\Debug\net8.0\DateGlobalization.exe
+C:\Users\alish\Desktop\homework\DateGlobalization\bin\Debug\net8.0\DateGlobalization.deps.json
+C:\Users\alish\Desktop\homework\DateGlobalization\bin\Debug\net8.0\DateGlobalization.runtimeconfig.json
+C:\Users\alish\Desktop\homework\DateGlobalization\bin\Debug\net8.0\DateGlobalization.dll
+C:\Users\alish\Desktop\homework\DateGlobalization\bin\Debug\net8.0\DateGlobalization.pdb
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\DateGlobalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\DateGlobalization.AssemblyInfoInputs.cache
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\DateGlobalization.AssemblyInfo.cs
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\DateGlobalization.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\DateGlobalization.dll
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\refint\DateGlobalization.dll
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\DateGlobalization.pdb
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\DateGlobalization.genruntimeconfig.cache
+C:\Users\alish\Desktop\homework\DateGlobalization\obj\Debug\net8.0\ref\DateGlobalization.dll

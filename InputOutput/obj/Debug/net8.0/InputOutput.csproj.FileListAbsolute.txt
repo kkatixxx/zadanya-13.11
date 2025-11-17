@@ -1,0 +1,14 @@
+C:\Users\alish\Desktop\homework\InputOutput\bin\Debug\net8.0\InputOutput.exe
+C:\Users\alish\Desktop\homework\InputOutput\bin\Debug\net8.0\InputOutput.deps.json
+C:\Users\alish\Desktop\homework\InputOutput\bin\Debug\net8.0\InputOutput.runtimeconfig.json
+C:\Users\alish\Desktop\homework\InputOutput\bin\Debug\net8.0\InputOutput.dll
+C:\Users\alish\Desktop\homework\InputOutput\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\InputOutput.AssemblyInfoInputs.cache
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\InputOutput.AssemblyInfo.cs
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\InputOutput.dll
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\refint\InputOutput.dll
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\InputOutput.pdb
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\InputOutput.genruntimeconfig.cache
+C:\Users\alish\Desktop\homework\InputOutput\obj\Debug\net8.0\ref\InputOutput.dll
