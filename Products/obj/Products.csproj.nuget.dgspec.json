@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alish\\Desktop\\homework\\Products\\Products.csproj": {}
+    "C:\\Users\\alish\\Desktop\\zadanya-13.11\\Products\\Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alish\\Desktop\\homework\\Products\\Products.csproj": {
+    "C:\\Users\\alish\\Desktop\\zadanya-13.11\\Products\\Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alish\\Desktop\\homework\\Products\\Products.csproj",
+        "projectUniqueName": "C:\\Users\\alish\\Desktop\\zadanya-13.11\\Products\\Products.csproj",
         "projectName": "Products",
-        "projectPath": "C:\\Users\\alish\\Desktop\\homework\\Products\\Products.csproj",
+        "projectPath": "C:\\Users\\alish\\Desktop\\zadanya-13.11\\Products\\Products.csproj",
         "packagesPath": "C:\\Users\\alish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alish\\Desktop\\homework\\Products\\obj\\",
+        "outputPath": "C:\\Users\\alish\\Desktop\\zadanya-13.11\\Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

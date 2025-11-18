@@ -1,6 +1,8 @@
-﻿string name = "Artyom";
-object heigth = 1.88;
+﻿object name = "Artyom";
+object height = 1.88;
 
-Console.WriteLine(name);
-Console.WriteLine(name.Length);
-Console.WriteLine(heigth);
+string newName = (string)name;
+
+Console.WriteLine(newName);
+Console.WriteLine(newName.Length);
+Console.WriteLine(height);
